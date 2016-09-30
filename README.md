@@ -1,4 +1,4 @@
 # PaneraG
 
 
-![Alt text](http://imgur.com/a/tSIbt "GUI")
+![ScreenShot](https://imgur.com/h8jxJZQ)
